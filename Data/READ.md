@@ -13,6 +13,10 @@ We will also collect additional data ourselves from Google Images.
 
 The KITTI dataset can be accessed [here](https://www.cvlibs.net/datasets/kitti/).
 
+## Google Images Data
+
+The images in the `cville_roads` folder were collected from a Google Images search.
+
 ## Example Code
 
 Below is an example code snippet that demonstrates how to load the KITTI dataset using Fiftyone:
